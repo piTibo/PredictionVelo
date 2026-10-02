@@ -1,0 +1,41 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="agate" />
+          <option value="agate-dbf" />
+          <option value="agate-excel" />
+          <option value="agate-sql" />
+          <option value="coverage" />
+          <option value="csvkit" />
+          <option value="data_dispenser" />
+          <option value="dateutils" />
+          <option value="dbfread" />
+          <option value="ddlgenerator" />
+          <option value="dnspython" />
+          <option value="et_xmlfile" />
+          <option value="iniconfig" />
+          <option value="isodate" />
+          <option value="joblib" />
+          <option value="leather" />
+          <option value="olefile" />
+          <option value="openpyxl" />
+          <option value="parsedatetime" />
+          <option value="pluggy" />
+          <option value="pymongo" />
+          <option value="pytest" />
+          <option value="pytest-cov" />
+          <option value="python-slugify" />
+          <option value="pytimeparse" />
+          <option value="scikit-learn" />
+          <option value="scipy" />
+          <option value="text-unidecode" />
+          <option value="threadpoolctl" />
+          <option value="xlrd" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
